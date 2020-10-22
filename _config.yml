@@ -24,8 +24,19 @@ description: >- # this means to ignore newlines until "baseurl:"
   Conteúdo educacional de computação para pesquisadores(as) das humaniades & divulgação de trabalhos e projetos!
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "humanidadesdigitais.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: 
 github_username:  humanidadesdigitais
+
+# campos adicionaveis ou modificaveis que são default tem no jekyll e minima
+author: joão leopoldo e silva
+
+# campos adicionaveis ou modificaveis que NÃO são default tem no jekyll e minima
+copyright: jls informática
+
+# logo - 15 pixels de altura
+# title-logo: /images/NOME_DA_IMAGEM.EXTENSÃO
+
 
 # Build settings
 # removi o tema minima e portanto o tema sera 'regular'
