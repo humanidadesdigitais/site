@@ -28,7 +28,8 @@ twitter_username:
 github_username:  humanidadesdigitais
 
 # Build settings
-theme: minima
+# removi o tema minima e portanto o tema sera 'regular'
+# theme: minima
 plugins:
   - jekyll-feed
 
