@@ -34,8 +34,8 @@ author: joão leopoldo e silva
 # campos adicionaveis ou modificaveis que NÃO são default tem no jekyll e minima
 copyright: jls informática
 
-# logo - 15 pixels de altura
-# title-logo: /images/NOME_DA_IMAGEM.EXTENSÃO
+# logo - 50 pixels de altura
+title-logo: /assets/images/logo-site2.png
 
 
 # Build settings

@@ -12,36 +12,17 @@ Saiba que tudo o que é nos enviado passa por crivo curatorial visando garantir 
 # Teoria e organização
 Todo o conteúdo do site é organizado através de postagens de blog que podem ser feitas diretamente no repositóri do GitHub []. Você pode fazer isso tanto remotamente sugerindo a inclusão do conteúdo através do software Git [] - siga lendo para saber como!
 
-Cada post é organizado em categorias (tags), sub-categorias (sub-tags) e níveis de dificuldades (nivel). Elas ajudam tanto na busca por conteúdo como também na padronização do site.
-
-As categorias são:
+Cada post é organizado em categorias que ajudam tanto na busca por conteúdo como também na padronização do site. Elas são divididas em tópicos e nível de dificuldade:
 
 - Pesquise
-    - sites de pesquisa
-    - grupos de pesquisa
-    - acervos
-    - bibliotecas
-
 - Aprenda
-    - metodologia
-    - programação: análise de dados
-    - programação: banco de dados
-
 - Construa
-    - softwares
-    - tutoriais técnicos
-
 - Divulgue
-    - ações
-    - eventos ou encontros
-    - pesquisas
-    - projetos
-
-Já os níveis são:
-
 - Iniciante
 - Intermediário
 - Avançado
+
+Cabe ressaltar que é possível utilizar somente uma categoria << 'aprenda' >>, como também combinar categorias <<['construa , intermediario']>>.
 
 Todo conteúdo enviado passa por etapa de curadoria. Isso significa que ele entrará em uma lista de publicação e, assim que curado por um(a) editor(a) será rejeitado ou aprovado. Em ambos os casos você será notificado(a)!
 
