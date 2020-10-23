@@ -1,6 +1,8 @@
 ---
-layout: page
-permalink: /contribuir-conteudo/
+layout: post
+title:  "Como contribuir com conteúdo"
+date:   2020-10-22 14:05:03 -0300
+categories: ['construa','iniciante']
 ---
 # Introdução
 Ficamos felizes em saber que você quer contribuir com esse projeto!
