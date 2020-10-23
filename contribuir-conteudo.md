@@ -52,3 +52,5 @@ Seguiremos os seguintes passos:
 - Instalação e configuração do software git
 - Como escrever um post
 - Como submeter o conteúdo
+
+![img-01](/assets/images/img-01.jpg)

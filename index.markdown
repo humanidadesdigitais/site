@@ -4,7 +4,7 @@
 
 layout: home
 ---
-
+![img-04](/assets/images/img-04.jpg)
 
 Como humanistas, adoramos diagnósticos de tempo e análises de conjuntura. Somos formados para observar e pensar criticamente os espaços que ocupamos, globais e locais. E isso é extremamente importante pois é através deste olhar que transformações se tornam possíveis.
 
