@@ -4,6 +4,8 @@ title: Sobre
 permalink: /sobre/
 order: 1
 ---
+![img-02](/assets/images/img-02.jpg)
+
 # Conteúdo
 O conteúdo disponível aqui é todo organizado por sistema de blog onde qualquer pessoa pode ser autora de uma publicação, mediante processo de aprovação por editor(a). Isso quer dizer que há curadoria de conteúdo.
 
