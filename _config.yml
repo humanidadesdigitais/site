@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Repositório de Humanidades Digitais
-email: 
+# email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Conteúdo educacional de computação para pesquisadores(as) das humaniades & divulgação de trabalhos e projetos!
 baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "humanidadesdigitais.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-twitter_username: 
+# twitter_username: 
 github_username:  humanidadesdigitais
 
 # campos adicionaveis ou modificaveis que são default tem no jekyll e minima
@@ -36,7 +36,6 @@ author: joão leopoldo e silva
 
 # logo - 50 pixels de altura
 title-logo: /assets/images/logo-site2.png
-
 
 # Build settings
 # removi o tema minima e portanto o tema sera 'regular'
